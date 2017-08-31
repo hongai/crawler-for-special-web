@@ -1,0 +1,6 @@
+E:\safe's crawler\movie\movie\movie\bin\x64\Debug\movie.exe.config
+E:\safe's crawler\movie\movie\movie\bin\x64\Debug\movie.exe
+E:\safe's crawler\movie\movie\movie\bin\x64\Debug\movie.pdb
+E:\safe's crawler\movie\movie\movie\bin\x64\Debug\HtmlAgilityPack.dll
+E:\safe's crawler\movie\movie\movie\obj\x64\Debug\movie.exe
+E:\safe's crawler\movie\movie\movie\obj\x64\Debug\movie.pdb

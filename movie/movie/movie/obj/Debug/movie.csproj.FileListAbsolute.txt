@@ -1,0 +1,6 @@
+E:\safe's crawler\movie\movie\movie\bin\Debug\movie.exe.config
+E:\safe's crawler\movie\movie\movie\bin\Debug\movie.exe
+E:\safe's crawler\movie\movie\movie\bin\Debug\movie.pdb
+E:\safe's crawler\movie\movie\movie\obj\Debug\movie.csprojResolveAssemblyReference.cache
+E:\safe's crawler\movie\movie\movie\obj\Debug\movie.exe
+E:\safe's crawler\movie\movie\movie\obj\Debug\movie.pdb

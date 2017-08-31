@@ -1,0 +1,6 @@
+E:\safe's crawler\baidu\baidu\bin\Debug\baidu.exe.config
+E:\safe's crawler\baidu\baidu\bin\Debug\baidu.exe
+E:\safe's crawler\baidu\baidu\bin\Debug\baidu.pdb
+E:\safe's crawler\baidu\baidu\obj\Debug\baidu.csprojResolveAssemblyReference.cache
+E:\safe's crawler\baidu\baidu\obj\Debug\baidu.exe
+E:\safe's crawler\baidu\baidu\obj\Debug\baidu.pdb
